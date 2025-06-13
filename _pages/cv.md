@@ -32,6 +32,7 @@ Graduate (Risk), **Westpac Banking Group**, Sydney, February 2015 - January 2016
   * Developed algorithm to identify income and expenses from uncategorised transactions, improving income and expense verification at application time.
   * Analysed Probability of Default and Loss Given Default models in light of new financial reporting standards.
 
+---
 
 Education
 ======
@@ -43,6 +44,7 @@ Bachelor of Commerce (Honours) [Finance and Macroeconomics], **Monash University
   * Thesis: *The Impact of Sentiment on Financial and Economic Activity in Australia*
   * Research areas: consumer and business confidence, econometric modelling
 
+---
 
 Skills
 ======
@@ -51,6 +53,7 @@ Skills
 * SQL
 * LaTeX
 
+---
 
 Publications
 ======
