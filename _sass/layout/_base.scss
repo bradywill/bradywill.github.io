@@ -61,7 +61,7 @@ small, .small {
 }
 
 p {
-  margin-bottom: 1.3em;
+  margin-bottom: 0.25em;
 }
 
 u,
@@ -176,12 +176,13 @@ hr {
 
 ul li,
 ol li {
+  margin-top: -0.25em;
   margin-bottom: 0.5em;
 }
 
 li ul,
 li ol {
-  margin-top: 0.5em;
+  margin-top: 0em;
 }
 
 /*
