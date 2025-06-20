@@ -17,16 +17,13 @@ Experience
 		<i>Supply Chain Optimization Technologies - Forecasting Science</i>
 	</summary>
 	<ul>	
-		&bull; Developed and launched into production systems probabilistic time series forecasting models to predict customer demand for products sold by Amazon worldwide.
+		&bull; Developed and launched into production systems probabilistic time series forecasting models to predict customer demand for all products sold by Amazon worldwide.
 	</ul>
 	<ul>
 		&bull; Developed (and published at KDD 2023) a novel distribution-free forecasting system including a neural network with Transformer architecture, and a loss function weighted by supply chain planning and purcashing constraints.
 	</ul>
 	<ul>
-		&bull; Researched (and published at an Amazon internal conference) sampling and quantile estimation algorithms for use in the simulating and optimisation of Amazon's supply chain network.
-	</ul>
-	<ul>	
-		&bull; Developed and launched into production a forecast generation pipeline which corrected for local availability constraints in the forecast of regional demand across the US.
+		&bull; Researched (and published at an Amazon internal conference) a sampling and quantile estimation algorithm as part of the end-to-end simulation and optimisation of Amazon's supply chain network.
 	</ul>
 </details>
 
@@ -41,7 +38,7 @@ Experience
 		&bull; Developed algorithm to identify commonly misheard words for Automated Speech Recognition model improvements.
 	</ul>
 	<ul>	
-		&bull; Built tool to parse reviews from Amazon website, using topic modelling and sentiment analysis to identify customer pain points.
+		&bull; Built tool to parse reviews from Amazon product webpages, using topic modelling and sentiment analysis to identify customer pain points.
 	</ul>
 </details>
 
@@ -52,11 +49,11 @@ Experience
 		Quantitative Analyst, <b>Westpac Banking Group</b>, Sydney, January 2016 - June 2018 <br>
 		<i>Risk Analytics - Credit Risk Modelling</i>
 	</summary>
-	<ul>
-		&bull; Developed algorithm for the calculation of observed credit loss for all portfolios.
-	</ul>
 	<ul>	
-		&bull; Built statistical models of probability of default, loss given default and exposure at default under the latest International Financial Reporting Standard (IFRS).
+		&bull; Developed statistical models of probability of default, loss given default and exposure at default under the latest International Financial Reporting Standard (IFRS).
+	</ul>
+	<ul>
+		&bull; Built reporting dashboard used by team to present model outputs to stakeholders, including the algorithm used to calculate observed loss (used for all product types) and the automated download of relevant economic data.
 	</ul>
 </details>
 
@@ -118,8 +115,10 @@ Skills
 Publications
 ======
 [Distribution-Free Multi-Horizon Forecasting and Vending System](https://www.amazon.science/publications/distribution-free-multi-horizon-forecasting-and-vending-system) \
-*9th SIGKDD International Workshop on Mining and Learning from Time Series (MiLeTS) 2023* \
+*SIGKDD 2023: International Workshop on Mining and Learning from Time Series* \
 Vincent Quenneville-Belair, Malcolm Wolff, **Brady Willhelme**, Dhruv Madeka, Dean Foster
+
+
 
 <!--
   <ul>{% for post in site.publications reversed %}
