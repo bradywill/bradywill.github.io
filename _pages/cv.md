@@ -31,7 +31,7 @@ Experience
 
 <details>
 	<summary>
-		Data Analyst, <b>Amazon</b>, Sydney, June 2018 - December 2018 <br>
+		Data Analyst, <b>Amazon</b>, Sydney, June 2018 - January 2019 <br>
 		<i>Alexa - Information (Australia and New Zealand)</i>
 	</summary>
 	<ul>
@@ -53,7 +53,7 @@ Experience
 		&bull; Developed statistical models of probability of default, loss given default and exposure at default under the latest International Financial Reporting Standard (IFRS).
 	</ul>
 	<ul>
-		&bull; Built reporting dashboard used by team to present model outputs to stakeholders, including the algorithm used to calculate observed loss (used for all product types) and the automated download of relevant economic data.
+		&bull; Built reporting dashboard used by team to present model outputs to stakeholders, including the algorithm used to calculate observed loss used for all product types and the automated download of relevant economic data.
 	</ul>
 </details>
 
@@ -62,6 +62,7 @@ Experience
 <details>
 	<summary>
 		Risk Graduate, <b>Westpac Banking Group</b>, Sydney, February 2015 - January 2016 <br>
+        Rotations: <i>Credit Risk, Operational Risk, Risk Analytics</i>
 	</summary>
 	<ul>	
 		&bull; Developed algorithm to identify income and expenses from uncategorised transactions, improving income and expense verification at application time.
@@ -83,7 +84,7 @@ Education
 		&bull; Thesis: <i>Autoregressive Modelling of Histograms and Probability Distributions</i>
 	</ul>
 	<ul>
-		&bull; Research areas: symbolic data analysis, functional data analysis, time series analysis
+		&bull; Adviser: Prof. Scott Sisson
 	</ul>
 </details>
 
@@ -91,13 +92,13 @@ Education
 
 <details open>
 	<summary>
-		Bachelor of Commerce (Honours) [Finance and Macroeconomics], <b>Monash University</b>, March 2014
+		Bachelor of Business and Commerce (Honours) [Finance and Macroeconomics], <b>Monash University</b>, December 2013
 	</summary>
 	<ul>
 		&bull; Thesis: <i>The Impact of Sentiment on Financial and Economic Activity in Australia</i>
 	</ul>
 	<ul>
-		&bull; Research areas: qualitative and quantitative measures of economic sentiment, econometric modelling
+		&bull; Adviser: Dr. Ernesto Valenzuela
 	</ul>
 </details>
 
