@@ -9,11 +9,11 @@
 
 main:
   - title: "Home"
-    url: /about/
+    url: / # about/
 
   - title: "CV"
     url: /cv/
   #   url: /cv-json/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/

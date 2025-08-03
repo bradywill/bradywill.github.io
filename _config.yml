@@ -29,14 +29,14 @@ author:
   location         : "Melbourne, Australia"
   employer         : # "Employer"
   uri              : # URL
-  email            : # "bw.pm.me@pm.me" 
+  email            : # "bw.pm.me@pm.me"
 
   # Academic websites
   academia         : # URL
   arxiv            : # bradyw
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : # https://orcid.org/0009-0007-9038-4202
   semantic         : # https://www.semanticscholar.org/author/Brady-Willhelme/2233494394
   pubmed           : # URL
   researchgate     : # URL

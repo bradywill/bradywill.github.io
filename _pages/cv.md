@@ -92,8 +92,11 @@ Education
 
 <details open>
 	<summary>
-		Bachelor of Business and Commerce (Honours) [Finance and Macroeconomics], <b>Monash University</b>, December 2013
+		Bachelor of Business and Commerce (Honours), <b>Monash University</b>, December 2013
 	</summary>
+	<ul>
+		&bull; Major: Finance and Macroeconomics
+	</ul>
 	<ul>
 		&bull; Thesis: <i>The Impact of Sentiment on Financial and Economic Activity in Australia</i>
 	</ul>
@@ -106,10 +109,7 @@ Education
 
 Skills
 ======
-* Python
-* R
-* SQL
-* LaTeX
+* Python, R, SQL, Git, LaTeX
 
 ---
 
@@ -118,11 +118,3 @@ Publications
 [Distribution-Free Multi-Horizon Forecasting and Vending System](https://www.amazon.science/publications/distribution-free-multi-horizon-forecasting-and-vending-system) \
 *SIGKDD 2023: International Workshop on Mining and Learning from Time Series* \
 Vincent Quenneville-Belair, Malcolm Wolff, **Brady Willhelme**, Dhruv Madeka, Dean Foster
-
-
-
-<!--
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
