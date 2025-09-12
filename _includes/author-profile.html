@@ -18,6 +18,7 @@
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    {% unless author.bio or author.pronouns %}<p></p>{% endunless %}
   </div>
 
   <div class="author__urls-wrapper">
@@ -82,12 +83,10 @@
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}" aria-label="stackoverflow"><i class="fab fa-fw fa-stack-overflow icon-pad-right" aria-hidden="true"></i>Stack Overflow</a></li>
       {% endif %}       
-      
-      <!--
+
       {% if author.cv %}
-        <li><a href="../files/cv-website.pdf" aria-label="cv"><i class="ai ai-cv big-icon" title="View CV">&nbsp; &nbsp;</i>View CV</p></a></li>
+        <li><a href="../files/cv-website.pdf" aria-label="cv"><i class="ai ai-cv big-icon" title="View CV">&nbsp; &nbsp;</i>View CV</a></li>
       {% endif %}
-      -->
       
     </ul>
   </div>
