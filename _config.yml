@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Brady Willhelme"
 title_separator          : "-"
 name                     : &name "Brady Willhelme"
-description              : # &description "Applied Statistician"
+description              : # &description "..."
 url                      : https://bradywill.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bradywill/bradywill.github.io"
@@ -26,7 +26,7 @@ author:
   name             : "Brady Willhelme"
   pronouns         : # he/him
   bio              : # "Bio"
-  location         : "Melbourne, Australia"
+  location         : "Sydney, Australia"
   employer         : # "Employer"
   uri              : # URL
   email            : # "bw.pm.me@pm.me"
@@ -35,7 +35,7 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # bradyw
-  googlescholar    : # URL
+  googlescholar    : https://scholar.google.com/citations?hl=en&user=hBXyPt8AAAAJ
   impactstory      : # URL
   orcid            : # https://orcid.org/0009-0007-9038-4202
   semantic         : # https://www.semanticscholar.org/author/Brady-Willhelme/2233494394
