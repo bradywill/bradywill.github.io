@@ -30,21 +30,21 @@ author:
   employer         : # "Employer"
   uri              : # URL
   email            : # "bw.pm.me@pm.me"
-  cv               : # CV
+  cv               : CV
 
   # Academic websites
   academia         : # URL
   arxiv            : # bradyw
   googlescholar    : https://scholar.google.com/citations?hl=en&user=hBXyPt8AAAAJ
   impactstory      : # URL
-  orcid            : # https://orcid.org/0009-0007-9038-4202
+  orcid            : https://orcid.org/0009-0007-9038-4202
   semantic         : # https://www.semanticscholar.org/author/Brady-Willhelme/2233494394
   pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
-  github           : "bradywill"
+  github           : "brady-unsw"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
